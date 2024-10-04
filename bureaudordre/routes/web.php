@@ -6,6 +6,8 @@ use App\Http\Controllers\AgendaController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\CourrierEntrantController;
 use App\Http\Controllers\CourrierSortantController;
+use Illuminate\Support\Facades\URL;
+
 
 Route::get('/welcome', function () {
     return view('welcome');
@@ -89,3 +91,4 @@ Route::middleware(['auth:sanctum', config('jetstream.auth_session'), 'verified']
 
 // Route::get('login/locked', 'Auth\LoginController@locked')->middleware('auth')->name('login.locked');
 // Route::post('login/locked', 'Auth\LoginController@unlock')->name('login.unlock');
+URL::forceScheme('https');
