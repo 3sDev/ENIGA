@@ -4,15 +4,11 @@ namespace App\Libs;
 
 class Urlupload
 {
-    // protected static $uploads = [
-    //     'url_upload' => 'https://smartschools.tn/university/public/upload',
-    //     'url_server' => 'https://smartschools.tn/university/public/api',
-    // ];
 
     public function getLinks()
     {
-        //return ['https://smartschools.tn/university/public/upload'];
-        return ['https://issatgafsa.tn/university/public/upload'];
+        return ['https://eniga.tn/university/public/upload'];
+
     }
 
 }
