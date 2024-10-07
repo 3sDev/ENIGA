@@ -44,7 +44,7 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a class="nav-link {{ Request::is('https://issatgafsa.tn/inscription/public/') ? 'active':''; }}" href="{{ url('https://issatgafsa.tn/inscription/public/') }}" target="_blank">
+                <a class="nav-link {{ Request::is('https://eniga.tn/inscription/public/') ? 'active':''; }}" href="{{ url('https://eniga.tn/inscription/public/') }}" target="_blank">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Ajouter étudiant</p>
                 </a>

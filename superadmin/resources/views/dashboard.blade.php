@@ -127,7 +127,7 @@ a.disabled {
                 </tr>
               </table>
             </div>
-            <a href="{{ url('https://issatgafsa.tn/chefdepartement/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{ url('https://eniga.tn/chefdepartement/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->
@@ -142,7 +142,7 @@ a.disabled {
                 </tr>
               </table>
             </div>
-            <a href="{{ url('https://issatgafsa.tn/servicescolarite/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{ url('https://eniga.tn/servicescolarite/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->
@@ -157,7 +157,7 @@ a.disabled {
                 </tr>
               </table>
             </div>
-            <a href="{{ url('https://issatgafsa.tn/serviceenseignant/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{ url('https://eniga.tn/serviceenseignant/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->
@@ -172,7 +172,7 @@ a.disabled {
                 </tr>
               </table>
             </div>
-            <a href="{{ url('https://issatgafsa.tn/servicepersonnel/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{ url('https://eniga.tn/servicepersonnel/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->
@@ -189,7 +189,7 @@ a.disabled {
                 </tr>
               </table>
             </div>
-            <a href="{{ url('https://issatgafsa.tn/serviceexamen/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{ url('https://eniga.tn/serviceexamen/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->
@@ -204,7 +204,7 @@ a.disabled {
                 </tr>
               </table>
             </div>
-            <a href="{{ url('https://issatgafsa.tn/servicestage/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{ url('https://eniga.tn/servicestage/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->
@@ -219,7 +219,7 @@ a.disabled {
                 </tr>
               </table>
             </div>
-            <a href="{{ url('https://issatgafsa.tn/bureaudordre/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{ url('https://eniga.tn/bureaudordre/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->
@@ -234,7 +234,7 @@ a.disabled {
                 </tr>
               </table>
             </div>
-            <a href="{{ url('https://issatgafsa.tn/servicesuivi/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="{{ url('https://eniga.tn/servicesuivi/public/') }}" target="_blank" class="small-box-footer">Accéder <i class="fas fa-arrow-circle-right"></i></a>
           </div>
         </div>
         <!-- ./col -->

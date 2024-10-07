@@ -18,7 +18,7 @@ class VerifyCsrfToken extends Middleware
   
   	protected $except = [
       '*',
-      'https://issatgafsa.tn/university/public/student/*',
+      'https://eniga.tn/university/public/student/*',
     ];
 
 }

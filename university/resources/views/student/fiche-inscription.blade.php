@@ -72,7 +72,7 @@
                             <strong> العنوان : </strong> الفضاء الجامعي سيدي أحمد زروق - قفصة 2112 <br/>
                                 الهاتف : 515 211 76  &nbsp;/&nbsp;    الفاكس : 985 211 76 <br/>
                               
-                                issatgf.website@gmail.com <strong> : البريد الإلكتروني</strong> 
+                                contact@sss.com <strong> : البريد الإلكتروني</strong> 
                             </div>
                         </div>
 
